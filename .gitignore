@@ -1,0 +1,31 @@
+# Keil编译产物
+*.uvgui.*
+*.uvguix.*
+*.uvoptx
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.crf
+*.o
+*.d
+*.i
+*.lnp
+*.bak
+*.dep
+*.lst
+*.htm
+Debug/
+Debug_RAM/
+Release/
+Listings/
+Objects/
+Output/
+JLinkLog.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
+# vscode缓存
+# .vscode/
